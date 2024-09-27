@@ -1,6 +1,6 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+neatlogic/neatlogic-db:community-3.2.0
+neatlogic/neatlogic-collectdb:community-3.2.0
+neatlogic/neatlogic-runner:community-3.2.0
+neatlogic/neatlogic-nacos:community-3.2.0
+neatlogic/neatlogic-app:community-3.2.0
+neatlogic/neatlogic-web:community-3.2.0
