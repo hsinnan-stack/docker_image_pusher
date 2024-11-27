@@ -4,3 +4,4 @@ neatlogic/neatlogic-runner:community-3.2.0
 neatlogic/neatlogic-nacos:community-3.2.0
 neatlogic/neatlogic-app:community-3.2.0
 neatlogic/neatlogic-web:community-3.2.0
+onlyoffice/documentserver:latest
